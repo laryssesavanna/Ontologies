@@ -32,9 +32,7 @@
 
     "hasDomainElement": {
       "@id": "LGeoSIMOntology:hasDomainElement",
-      "@type": "@id",
-      "@container": "@list"
+      "@type": "@id"
     }
   }
 }
-
